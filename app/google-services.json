@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798805303118",
+    "firebase_url": "https://fragmentos-296d6.firebaseio.com",
+    "project_id": "fragmentos-296d6",
+    "storage_bucket": "fragmentos-296d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798805303118:android:5d94d6debd573879c3081f",
+        "android_client_info": {
+          "package_name": "mx.com.softwell.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798805303118-o3hgmtmt95h669a7vtflr04klldm0kio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTW_fw--kkn-R14zJGSRodUFB9tEErTd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798805303118-o3hgmtmt95h669a7vtflr04klldm0kio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

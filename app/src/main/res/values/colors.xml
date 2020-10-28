@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#139dd4</color>-->
+    <!--<color name="colorPrimaryLight">#139dd4</color>-->
+    <!--<color name="colorPrimaryDark">#0288D1</color>-->
+    <!--<color name="colorAccent">#139dd4</color>-->
+    <!--<color name="textColorPrimary">#212121</color>-->
+    <!--<color name="textColorSecondary">#0932e0</color>-->
+    <!--<color name="textIcons">#FFFFFF</color>-->
+    <!--<color name="toolbarIconColor">@color/textColorSecondary</color>-->
+    <!--<color name="loginPageBackgroundColor">#FFFFFF</color>-->
+    <!--<color name="productGridBackgroundColor">#FFFBFA</color>-->
+    <!--<color name="colorControlActivated">#BBDEFB</color>-->
+    <!--<color name="dividerColor">#BDBDBD</color>-->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryLight">#ffffff</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#000000</color>
+    <color name="textIcons">#FFFFFF</color>
+    <color name="toolbarIconColor">@color/textColorSecondary</color>
+    <color name="loginPageBackgroundColor">#FFFFFF</color>
+    <color name="productGridBackgroundColor">#ffffff</color>
+    <color name="colorControlActivated">#BBDEFB</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisFotografias</string>
+    <string name="main_label_gallery">Galería</string>
+    <string name="main_label_camera">Cámara</string>
+    <string name="main_label_upload">Subir</string>
+    <string name="main_message_question_upload">¿Desea Subir esta imagen?</string>
+    <string name="main_message_url_null">Imagen Eliminada Correctamente</string>
+    <string name="main_message_question_upload_success">Imagen subida exictosamente!!</string>
+    <string name="main_message_done">Listo!!</string>
+    <string name="main_message_upload_error">¡¡Error al cargar la imagen!!</string>
+    <string name="main_message_error_notfount">No se pudo cargar la imagen.</string>
+    <string name="main_message_delete">¡Imagen Eliminada Correctamente!</string>
+    <string name="main_mesage_error_delete">¡Ocurrio un error al Eliminar la imagen!!</string>
+</resources>
